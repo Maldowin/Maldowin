@@ -2,7 +2,7 @@
 # Hi, welcome to my GitHub! 
 
 
-<img src="[https://github.com/favicon.ico](https://github.com/Maldowin/Maldowin.wiki.git)" height="240" width="480">
+<img src="https://github.com/Maldowin/Maldowin.wiki.git" height="240" width="480">
 
 
 - 🔭 I'm currently pursuing a master's degree in Engineering Management at Florida Poly.
