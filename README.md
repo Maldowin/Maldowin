@@ -1,7 +1,7 @@
 
 # Hi, welcome to my GitHub! 
 
-<img width="30" src="https://github.com/Maldowin/Maldowin.wiki.git" alt="party blob" />
+![Header](https://github.com/Maldowin/Maldowin.wiki.git)
 
 
 - 🔭 I'm currently pursuing a master's degree in Engineering Management at Florida Poly.
