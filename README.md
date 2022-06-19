@@ -1,7 +1,7 @@
 
 # Hi, welcome to my GitHub! 
 
-![Screenshot 2022-06-18 202618](https://user-images.githubusercontent.com/105830129/174461623-6911a00f-e3af-4829-8638-4aa43144f3c7.jpg height="240" width="480")
+![Screenshot 2022-06-18 202618](https://user-images.githubusercontent.com/105830129/174461623-6911a00f-e3af-4829-8638-4aa43144f3c7.jpg, height="240", width="480")
 
 
 - 🔭 I'm currently pursuing a master's degree in Engineering Management at Florida Poly.
